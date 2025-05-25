@@ -1,0 +1,11 @@
+
+Flask==2.3.2
+mysql-connector-python==8.0.33
+torch==2.1.2
+transformers==4.36.2
+shap==0.45.0
+numpy==1.24.4
+matplotlib==3.7.1
+
+
+
